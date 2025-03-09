@@ -5,3 +5,6 @@ Here you can colaborate on various observations, structures, ***frameworks, and 
 
 # Why open?
 Becaues it sounds cool, and well, people colaborating together on same body of knowledge means, more trial and error and more fast progress.
+
+## List of top topics
+- [Psychology](https://github.com/kritakHERE/open-wisdom/blob/main/Psychology/Psychology.md)
