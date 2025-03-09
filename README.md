@@ -1,6 +1,8 @@
 # Open Wisdom
 A repo dedicated to providing knowledge and wisdom for all who are curious and also a collaborative approach to knowledge structuring.
 
+We are really excited to tell you that the repo shall be only in markdown, or html to make it easy to write and not really about design.
+
 Here you can colaborate on various observations, structures, ***frameworks, and models*** that will help humanity to think.
 
 # Why open?
