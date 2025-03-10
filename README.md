@@ -5,8 +5,10 @@ We are really excited to tell you that the repo shall be only in markdown, or ht
 
 Here you can colaborate on various observations, structures, ***frameworks, and models*** that will help humanity to think.
 
+![Inner peace](https://raw.githubusercontent.com/kritakHERE/open-wisdom/refs/heads/main/images/peace.gif)
+
 # Why open?
 Becaues it sounds cool, and well, people colaborating together on same body of knowledge means, more trial and error and more fast progress.
 
-## List of top topics
+## List of top topicshttps://raw.githubusercontent.com/kritakHERE/open-wisdom/refs/heads/main/images/peace.gif
 - [Psychology](https://github.com/kritakHERE/open-wisdom/blob/main/Psychology/Psychology.md)
